@@ -1,0 +1,17 @@
+1. The 5 items on the list of Boo's favorite things needed to use the list tag in order to have the items set up correctly <li></li>
+2. The wikipedia url for Boo The Dog was not set up between the quotation marks after the href function. The original link just refreshed the page.
+3. The About Boo section had one big paragraph instead of four different sections.
+   I updated the html to split the About Boo paragraph into four different sections using the <p> and </p> paragraph tags.
+4. The header title of "Boo The Dog Fan Page!" needed to be encapsulated by the <h1> header tag.
+   This allowed the html to correctly use the appropriate font-family, text color, and text size from the already existing style.css code.
+5. The image of Boo the dog wasn't displaying properly because angle brackets were missing before the img tag and after the src url.
+6. I deleted the instructions for the exercise in the Boo the dog website by removing the five classes associated with that section as well as the text.
+7. The button ids for the text colors were originally set up to the wrong color so that was updated.
+8. The color pink was typed in parenthesis when setting up the button functionality in the logic.js file.
+9. The boxGrow and boxShrink javascript functions didn't put the click between double quotes in the logic.js file.
+10.The javascript source for the html was incorrect; the source was updated to logic.js.
+11.The different facts about Boo incorrectly added a double quote in the beginning of the list and at the end of the list.
+   I updated the booFacts variable in logic.js by adding double quotes to every single fact.
+12.I adjusted the order of the 4 bottom sections in the webpage in order to match the Grumpy Cat example.
+13.I removed a </div> tab in order to have more margins on the bottom 4 sections of the webpage.
+
